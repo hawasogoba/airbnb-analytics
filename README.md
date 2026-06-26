@@ -149,13 +149,8 @@ Exécutés via dbt (`dbt test`) sur les tables sources :
 | Top hôtes | Hôtes classés par nombre de logements |
 | Impact pleine lune | Comparaison du sentiment des avis selon que la nuit était une nuit de pleine lune ou non |
 
-## Répartition des tâches
-
-| Membre | Tâches |
-|---|---|
-| **[Prénom Nom 1]** | Ingestion Bronze, modélisation dbt (Silver/Gold), tests de qualité |
-| **[Prénom Nom 2]** | Dashboard Streamlit, documentation, revue de code |
-
+## Projet réaliséen solo 
+Hawa SOGOBA 
 ---
 
 *Projet réalisé dans le cadre de l'évaluation Management Opérationnel 2026.*
