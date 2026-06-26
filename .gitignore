@@ -1,0 +1,8 @@
+﻿*.duckdb
+data/raw/
+venv/
+__pycache__/
+*.pyc
+dbt_project/airbnb_dbt/target/
+dbt_project/airbnb_dbt/logs/
+dbt_project/airbnb_dbt/dbt_packages/
