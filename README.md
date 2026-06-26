@@ -149,7 +149,7 @@ Exécutés via dbt (`dbt test`) sur les tables sources :
 | Top hôtes | Hôtes classés par nombre de logements |
 | Impact pleine lune | Comparaison du sentiment des avis selon que la nuit était une nuit de pleine lune ou non |
 
-## Projet réaliséen solo 
+## Projet réalisé en solo 
 Hawa SOGOBA 
 ---
 
