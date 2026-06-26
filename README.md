@@ -152,5 +152,3 @@ Exécutés via dbt (`dbt test`) sur les tables sources :
 ## Projet réalisé en solo 
 Hawa SOGOBA 
 ---
-
-*Projet réalisé dans le cadre de l'évaluation Management Opérationnel 2026.*
